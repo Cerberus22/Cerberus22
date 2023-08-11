@@ -25,8 +25,7 @@ I am Cerberus, I write code for fun and I love learning about computers and thei
 <h3>Contact</h3>
 Contact me using:
 <ul>
-  <li>Discord: Cerberus#0522</li>
-  <li>Twitter: <a href="https://twitter.com/2Cerberus2">@2Cerberus2</a></li>
+  <li>Discord: cerberus_22</li>
 </ul>
 
 
